@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Devansh Bhatt</h1>
 <h3 align="center">A Class 9 student at DPS Kolar passionate about ML & CV, + Front-End Dev</h3>
 
-- 🔭 I’m currently working on **SignaNova (Sign Language Translator**
-
-- 🌱 I’m currently learning **Advanced Computer Vision**
 
 - 📫 How to reach me **dev.bhatt.939@gmail.com**
 
